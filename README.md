@@ -1,1 +1,2 @@
-# Advising-clients-on-a-supply-chain-issue-by-applying-machine-learning-models
+# Advising-client-on-a-supply-chain-issue-by-applying-machine-learning-models
+I completed a project about using machine learning models to advise client on a supply chain issue. Specifically, I conducted exploratory data analysis using Python and Google Colab for the client, Gala Groceries. I also prepare a Python module that contains code to train a model and output the performance metrics for the Machine Learning engineering team. Consequently, I communicated findings and analysis to present the results back to the business.
