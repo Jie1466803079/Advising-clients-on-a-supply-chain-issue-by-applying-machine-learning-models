@@ -4,6 +4,10 @@
 
 `Python` · `scikit-learn` · `Random Forest regression`
 
+<p align="center">
+  <img src="docs/feature-importance.png" alt="Random Forest feature importances for hourly stock-level prediction" width="700">
+</p>
+
 ## Problem
 Gala Groceries wanted to better manage the stock of the items it sells. In the exploratory phase the business question was stated broadly as *"How to better stock the items that they sell"*, which the analysis found too broad to answer from the available data. It was therefore narrowed to a concrete predictive question: *"Can we accurately predict the stock levels of products, based on sales data and sensor data, on an hourly basis in order to more intelligently procure products from our suppliers."*
 
